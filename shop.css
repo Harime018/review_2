@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color:dimgrey;
+    color:azure;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  .container {
+    margin: 20px;
+  }
+  
+  .product {
+    display: inline-block;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    border:1px solid;
+  }
+  
+  .product img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .product h2 {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .product p {
+    margin: 5px 0;
+  }
+  
+  .product button {
+    background-color:chocolate;
+    color:azure;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
